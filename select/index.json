@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "二人セゾン",
+  "base_artist": "Keyakizaka46",
+  "createdAt": "2025-12-26T05:19:10.741159Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二人セゾン",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/01_二人セゾン_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Futari Saison (二人セゾン)",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/02_Futari_Saison_(二人セゾン)_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Futari Saison (二人セゾン) - off-vocal -",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/03_Futari_Saison_(二人セゾン)_-_off-vocal_-_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "二人セゾン",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/04_二人セゾン_Keyakizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_02_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_03_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_04_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_05_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_06_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_07_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_08_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_09_二人セゾン_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "二人セゾン",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_10_二人セゾン_欅坂46.txt"
+    }
+  ]
+}
